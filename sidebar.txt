@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[adz:home|Door43 (adz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-adz|d43-adz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-adz/archive/master.zip|d43-adz.zip]]
+
+**Recent Changes**
+{{changes>ns = adz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/adz|Ethnologue data]]
+
